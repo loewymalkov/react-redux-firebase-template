@@ -4,3 +4,4 @@ export const createProject = (project) => {
     dispatch({ type: 'CREATE_PROJECT', project });
   }
 };
+
